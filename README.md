@@ -426,13 +426,3 @@ If `AegyronVelocityAPI.getInstance()` returns empty:
 1. Make sure you've registered your event listener
 2. Check that Aegyron-Velocity is loaded before your plugin
 3. Verify event handler methods have `@Subscribe` annotation
-
-## Support
-
-- **Documentation**: https://docs.aegyron.example.com
-- **Issues**: https://github.com/itsjxsper/aegyron/issues
-- **Discord**: https://discord.gg/aegyron
-
-## License
-
-MIT License - See LICENSE file for details
